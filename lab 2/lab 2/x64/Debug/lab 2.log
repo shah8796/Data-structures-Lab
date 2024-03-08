@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\data structs lab\lab 2\lab 2\Source.cpp(113,11): warning C4101: 'curr': unreferenced local variable
+  question 1.cpp
+  Generating Code...
+  lab 2.vcxproj -> F:\data structs lab\lab 2\x64\Debug\lab 2.exe

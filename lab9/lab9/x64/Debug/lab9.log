@@ -1,0 +1,3 @@
+﻿  21l1834.cpp
+F:\data structs lab\lab9\lab9\21l1834.cpp(111): warning C4715: 'avl<int>::balance': not all control paths return a value
+  lab9.vcxproj -> F:\data structs lab\lab9\x64\Debug\lab9.exe

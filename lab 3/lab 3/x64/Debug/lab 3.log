@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\data structs lab\lab 3\lab 3\Source.cpp(101): warning C4715: 'dat<int>::search': not all control paths return a value
+  lab 3.vcxproj -> F:\data structs lab\lab 3\x64\Debug\lab 3.exe
